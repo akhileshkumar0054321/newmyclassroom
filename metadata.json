@@ -1,0 +1,11 @@
+{
+  "name": "MyClassroom.AI",
+  "description": "Student workspace for deep learning: AI-powered study notes, test generation, graded mock tests, student library, UID connections, and peer study meetings.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
